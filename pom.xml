@@ -19,7 +19,7 @@
     <quarkus.version>3.8.3</quarkus.version>
     <graalvm.version>24.0.1</graalvm.version>
     <mokito.version>5.11.0</mokito.version>
-    <qosdk.version>6.6.8</qosdk.version>
+    <qosdk.version>6.7.1</qosdk.version>
     <assertj.version>3.25.3</assertj.version>
     <spotless.version>2.43.0</spotless.version>
   </properties>
